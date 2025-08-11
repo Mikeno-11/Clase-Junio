@@ -1,0 +1,24 @@
+Main
+
+Int edad
+string nombre
+bool tieneLicencia
+
+if (edad=>18)
+ [
+  "nombre puede conducir"
+ ]
+else
+ [
+  "nombre es menor de edad"
+
+ ]
+
+if (tiene licencia==true)
+ [
+  "nombre tiene licencia"
+ ]
+else
+ [
+  "nombre tiene licencia"
+ ]
